@@ -3,3 +3,4 @@ I am adding first sentence here.
 I am trying to create a new branch
 I am trying git revert now
 
+I am trying fetch vs pull now
